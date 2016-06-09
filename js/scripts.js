@@ -13,11 +13,11 @@ function convert(inputNumber) {
 $(document).ready(function() {
   $("form#converter").submit(function(event) {
     event.preventDefault();
-    var inputNumber = $("form#converter").val();
-    if (inputNumber <= 0) {
-      alert("number must be greater than 0");
-    };
-    
+    var inputNumber = $("input#input-number").val();
+    debugger;
+    if (inputNumber <= 0 || inputNumber >= 4000) {
+      alert("number must a value between 1 and 3999");
+    }
     //call function
   });
 });
