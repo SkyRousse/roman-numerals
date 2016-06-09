@@ -4,6 +4,7 @@ var numbers = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];
 
 
 var converter = function convert(inputNumber) {
+  debugger;
  var roman = "";
   for( var i = 0; i<numbers.length; i++) {
     while(inputNumber >= numbers[i]) {
@@ -26,10 +27,10 @@ $(document).ready(function() {
     }
     // $(".converted-number")text("");
     //call function
-    debugger;
+
     var roman = converter(inputNumber);
     // $("ul.converted-number li").remove();
-    $(".converted-number").append("<li>" + roman + "</li>");
+    $(".converted-number").append("<li>" + "The number " + inputNumber + " is equal to " + roman + "</li>");
     $("#result").show();
     //add output
   });
