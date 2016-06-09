@@ -14,7 +14,7 @@ Restrict input to positive numbers only  | The13 (or) -1  | Alert: input field w
 Numbers greater than 3999 not accepted| 4000  | alert: numbers cannot be greater than 3999
 Restrict input to positive numbers only  | The13 (or) -1  | Alert: input field will only accept positive numbers
 Assign Roman Numeral symbols to numbers (1,4,5,9,10,40,50,90,100,400,500,900,1000)| 1 | I
-Output the converted number in roman-numerals | 25 | XXV 
+Output the converted number in roman-numerals | 25 |XXV
 
 ## Setup/Installation Requirements
 
