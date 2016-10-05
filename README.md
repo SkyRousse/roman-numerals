@@ -30,7 +30,7 @@ Output the converted number in roman-numerals | 25 |XXV
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas, or concerns, please feel free to contact Sky at <a href="mailto:sky@epicodus.com">sky@epicodus.com</a> or Maldon at <a href="mailto:maldonmeehan@gmail.com">maldonmeehan@gmail.com</a>._
+_If you run into any issues or have questions, ideas, or concerns, please feel free to contact Sky at <a href="mailto:skyrousse@gmail.com">sky@epicodus.com</a> or Maldon at <a href="mailto:maldonmeehan@gmail.com">maldonmeehan@gmail.com</a>._
 
 ## Technologies Used
 
